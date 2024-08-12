@@ -15,8 +15,8 @@ Welcome to my Personal Portfolio! This project showcases my journey as a **Front
 - `projects/` - Detailed descriptions of my projects.
 
 ## 🚀 Live Demo
-Check out the live version [here](https://adityapatel-portfolio.com).
+Check out the live version [here](https://aditya-personal-portfolio.vercel.app/).
 
-## 📫 Contact
+## 📫 Contac
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityapatel98) or check out more of my work on [GitHub](https://github.com/adityapatel-dev).
 
